@@ -1,4 +1,4 @@
-## First read the input file
+## First read the input file.
 ## Requires the file household_power_consumption.txt in the working directory
 
 sourceFile <- "./household_power_consumption.txt"
